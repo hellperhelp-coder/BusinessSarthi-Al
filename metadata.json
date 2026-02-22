@@ -1,0 +1,5 @@
+{
+  "name": "AutoMsg Hub - Smart Automation Platform",
+  "description": "A comprehensive React-based dashboard for managing automated SMS and WhatsApp responses for missed, incoming, and outgoing calls, featuring template management, API configuration, and user analytics.",
+  "requestFramePermissions": []
+}
